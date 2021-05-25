@@ -1,0 +1,7 @@
+D:\REPO-K VISUAL STUDIOBAN\if for egyes fel\bin\Debug\if for egyes fel.exe.config
+D:\REPO-K VISUAL STUDIOBAN\if for egyes fel\bin\Debug\if for egyes fel.exe
+D:\REPO-K VISUAL STUDIOBAN\if for egyes fel\bin\Debug\if for egyes fel.pdb
+D:\REPO-K VISUAL STUDIOBAN\if for egyes fel\obj\Debug\if for egyes fel.csproj.AssemblyReference.cache
+D:\REPO-K VISUAL STUDIOBAN\if for egyes fel\obj\Debug\if for egyes fel.csproj.CoreCompileInputs.cache
+D:\REPO-K VISUAL STUDIOBAN\if for egyes fel\obj\Debug\if for egyes fel.exe
+D:\REPO-K VISUAL STUDIOBAN\if for egyes fel\obj\Debug\if for egyes fel.pdb
